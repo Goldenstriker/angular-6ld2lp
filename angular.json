@@ -28,8 +28,13 @@
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/jquery/jquery-migrate.min.js",
               "node_modules/bootstrap/dist/js/bootstrap.min.js",
-              "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+              "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
+              "node_modules/easing/easing.min.js",
+              "node_modules/owlcarousel/owl.carousel.min.js",
+              "node_modules/scrollreveal/scrollreveal.min.js",
+              "src/app.js"
             ]
           },
           "configurations": {
