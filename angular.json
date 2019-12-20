@@ -27,8 +27,8 @@
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "node_modules/font-awesome/css/font-awesome.min.css",
               "node_modules/animate/animate.min.css",
-              "node_modules/ionicons/dist/ionicons.min.css",
-              "node_modules/owlcarousel/dist/assets/owl.carousel.min.css"
+              "node_modules/ionicons/dist/assets/ionicons.min.css",
+              "node_modules/owl.carousel/dist/assets/owl.carousel.min.css"
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
@@ -37,7 +37,7 @@
               "node_modules/bootstrap/dist/js/bootstrap.min.js",
               "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
               "node_modules/easing/easing.min.js",
-              "node_modules/owlcarousel/dist/owl.carousel.min.js",
+              "node_modules/owl.carousel/dist/owl.carousel.min.js",
               "node_modules/scrollreveal/scrollreveal.min.js"
             ]
           },
