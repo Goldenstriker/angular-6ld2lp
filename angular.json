@@ -20,13 +20,13 @@
             "tsConfig": "src/tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
             ],
             "styles": [
               "src/styles.css",
               "src/fonts.css",
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "node_modules/@fortawesome/fontawesome-free/css/all.css",
+              "node_modules/font-awesome/css/font-awesome.css",
               "node_modules/animate.css",
               "node_modules/ionicons/dist/css/ionicons.min.css",
               "node_modules/owl.carousel/dist/assets/owl.carousel.min.css"
@@ -35,7 +35,6 @@
               "node_modules/jquery/dist/jquery.min.js",
               "node_modules/jquery/jquery-migrate/dist/jquery-migrate.min.js",
               "src/app_code.js",
-               "node_modules/@fortawesome/fontawesome-free/js/all.j",
               "node_modules/bootstrap/dist/js/bootstrap.min.js",
               "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
               "node_modules/easing/easing.min.js",
