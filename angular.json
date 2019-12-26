@@ -24,24 +24,24 @@
               "node_modules/font-awesome/fonts"
             ],
             "styles": [
-              "src/styles.css",
-              "src/fonts.css",
-              "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "node_modules/font-awesome/css/font-awesome.css",
-              "node_modules/animate.css",
+			  "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/@fortawesome/fontawesome-free/css/all.css",
+              "node_modules/animate.css/animate.css",
               "node_modules/ionicons/dist/css/ionicons.min.css",
-              "node_modules/owl.carousel/dist/assets/owl.carousel.min.css"
+              "node_modules/owl.carousel/dist/assets/owl.carousel.min.css",
+			  "src/styles.css",
             ],
             "scripts": [
-              "node_modules/jquery/dist/jquery.min.js",
-              "node_modules/jquery/jquery-migrate/dist/jquery-migrate.min.js",
-              "src/app_code.js",
+			  "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/jquery-migrate/dist/jquery-migrate.min.js",
               "node_modules/bootstrap/dist/js/bootstrap.min.js",
               "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
-              "node_modules/easing/easing.min.js",
+              "node_modules/jquery-easing/dist/jquery.easing.1.3.umd.js",
+			  "node_modules/@fortawesome/fontawesome-free/js/all.js",
               "node_modules/owl.carousel/dist/owl.carousel.min.js",
-              "node_modules/scrollreveal/scrollreveal.min.js"
-            ]
+              "node_modules/scrollreveal/dist/scrollreveal.min.js",
+			  "src/assets/js/app.js"
+			]
           },
           "configurations": {
             "production": {
